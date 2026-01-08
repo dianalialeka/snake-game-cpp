@@ -1,3 +1,4 @@
+cpp
 #include "snake.h"
 
 Snake::Snake(int startX, int startY) : dir(RIGHT), growing(false) {
